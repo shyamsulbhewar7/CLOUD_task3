@@ -1,0 +1,1 @@
+WORDPRESS_Public_IP:13.235.8.250=======WORDPRESS_Private_IP:192.168.0.85======Bostion_OS_Public_IP:13.233.87.29======MySql_Private_IP:192.168.1.198  
